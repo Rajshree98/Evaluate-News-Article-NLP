@@ -15,6 +15,3 @@ The goal of this project:
 
 URL: https://evaluate-articles-with-nlp.herokuapp.com/
 
-## Author
-
-**Saud Al-Slimany**  - [Saud Al-Slimany](https://github.com/SaudC21)
