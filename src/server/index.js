@@ -21,6 +21,7 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(bodyParser.json({limit:'50mb'}));
 app.use(express.static('dist'));
+console.log(api_key)
 
 // app.use(express.static(__dirname + '/public'));
 console.log("HERE:" + __dirname);
